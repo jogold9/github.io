@@ -54,6 +54,11 @@ h4 {
 	color: #000000;
 }
 
+.left	a:link { color: #FFFFFF; }
+.left	a:visited { color: #FFFFFF; }
+.left	a:hover { color: #FFFFFF; }
+.left	a:active { color: #FFFFFF; }
+
 .companies {
            font-weight:bold;
 }
