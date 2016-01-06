@@ -14,7 +14,7 @@
 	padding-left: 10px;
 }
 
-.right  a {color: #FFFFFF;}
+.right  a {color: #FFFFFF; font-size: 100px; }
 .right	a:link { color: #FFFFFF; }
 .right	a:visited { color: #FFFFFF; }
 .right	a:hover { color: #FFFFFF; }
