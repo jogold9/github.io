@@ -1,0 +1,19 @@
+<html> <!-- AeroAdmin Quick Button. Generated at http://www.aeroadmin.com) -->
+<head>
+		<link type="text/css" rel="stylesheet" href="aeroadmin.css"/>
+		<title></title>
+</head>
+
+<div class="left">
+  <br><br>
+
+  <div style="padding:5px; position:relative; width:272px; height:202px;">
+  <img src="acceptConnection.png" alt="Screen capture for accepting connections">
+  </div>
+
+  <br><br>
+
+</div>
+
+
+</html>
