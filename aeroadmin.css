@@ -16,6 +16,12 @@
 	padding-left: 10px;
 }
 
+.left  a {color: #FFFFFF; font-size: 25px; }
+.left	a:link { color: #FFFFFF; }
+.left	a:visited { color: #FFFFFF; }
+.left	a:hover { color: #FFFFFF; }
+.left	a:active { color: #FFFFFF; }
+
 .right  a {color: #FFFFFF; font-size: 25px; }
 .right	a:link { color: #FFFFFF; }
 .right	a:visited { color: #FFFFFF; }
