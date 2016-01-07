@@ -17,13 +17,13 @@
 }
 
 .left p  { color: #FFFFFF; }
-.left   a:{color: #FFFFFF; font-size: 15px; }
+.left   a:{color: #FFFFFF; font-size: 18px; }
 .left	a:link { color: #FFFFFF; }
 .left	a:visited { color: #FFFFFF; }
 .left	a:hover { color: #FFFFFF; }
 .left	a:active { color: #FFFFFF; }
 
-.right  a {color: #FFFFFF; font-size: 20px; }
+.right  a {color: #FFFFFF; font-size: 18px; }
 .right	a:link { color: #FFFFFF; }
 .right	a:visited { color: #FFFFFF; }
 .right	a:hover { color: #FFFFFF; }
