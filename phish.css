@@ -1,0 +1,49 @@
+div {
+	border-radius: 15px;
+}
+
+.left {
+
+	float: left;
+	width: 30%;
+	height: 900px;
+	background-color: #336600;
+	padding-left: 10px;
+}
+.center {
+
+	float: left;
+	width: 45%;
+	height: 900px;
+	background-color: #ffffff;
+	margin-bottom: 10px;
+	padding-left: 10px;
+}
+.right {
+
+	float: left;
+	width: 20%;
+	height: 900px;
+	background-color: #336600;
+	margin-bottom: 10px;
+	padding-left: 10px;
+}
+
+.left p  { color: #FFFFFF; }
+.left   a:{color: #FFFFFF; font-size: 18px; }
+.left	a:link { color: #FFFFFF; }
+.left	a:visited { color: #FFFFFF; }
+.left	a:hover { color: #FFFFFF; }
+.left	a:active { color: #FFFFFF; }
+
+.center  a {color: #000000; font-size: 18px; }
+.center	a:link { color: #000000; }
+.center	a:visited { color: #000000; }
+.center	a:hover { color: #000000; }
+.center	a:active { color: #000000; }
+
+.right  a {color: #FFFFFF; font-size: 18px; }
+.right	a:link { color: #FFFFFF; }
+.right	a:visited { color: #FFFFFF; }
+.right	a:hover { color: #FFFFFF; }
+.right	a:active { color: #FFFFFF; }
