@@ -7,8 +7,8 @@ div {
 	float: left;
 	width: 30%;
 	height: 900px;
-	background-color: #336600;
 	padding-left: 10px;
+	background:url('giphy-downsized.gif') repeat;
 }
 .center {
 
