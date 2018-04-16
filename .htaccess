@@ -1,1 +1,0 @@
-Header set x-xss-protection "1; mode=block"
